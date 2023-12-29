@@ -5,4 +5,5 @@ st.write("- Persian Cat")
 st.image("./download.jpg")
 st.write("- White Cat")
 st.image("./pexels-pixabay-104827.jpg")
-
+st.write("- Rose")
+st.image("./roses.jpg")
